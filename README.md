@@ -1,2 +1,3 @@
 # hello-world
-lear github repository
+learn github repository
+making a new branch and commit
